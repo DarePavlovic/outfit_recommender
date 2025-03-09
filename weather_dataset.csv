@@ -1,0 +1,31 @@
+Maximum Temperature,Minimum Temperature,Maximum Apparent Temperature,Minimum Apparent Temperature,Precipitation Sum,Rain Sum,Showers Sum,Snowfall Sum,Precipitation Hours,Maximum Wind Speed,Maximum Wind Gusts,UV Index,UV Index Clear Sky,Outfit
+15,5,12,3,0,0,0,0,0,10,15,5,5,Light Jacket and Jeans
+25,15,27,17,0,0,0,0,0,5,10,8,8,T-shirt and Shorts
+5,0,4,-1,2,2,3,0,4,20,30,2,2,Raincoat and Warm Pants
+-5,-10,-7,-12,0,0,0,4,6,15,25,1,1,Heavy Coat and Woolen Hat
+10,5,8,3,0,0,0,0,0,8,12,6,6,Sweater and Jeans
+30,20,35,22,0,0,0,0,0,10,20,9,9,Tank Top and Shorts
+20,10,18,8,0,0,0,0,0,12,18,7,7,Light Sweater and Pants
+0,-5,-3,-8,5,5,0,10,12,25,35,3,3,Winter Coat and Gloves
+22,16,25,18,0,0,0,0,0,6,13,7,7,Short Sleeve Shirt and Skirt
+12,7,10,5,1,1,2,0,3,18,28,4,4,Raincoat and Jeans
+18,10,16,8,0,0,0,0,0,9,14,6,6,Long Sleeve Shirt and Pants
+28,18,30,20,0,0,0,0,0,11,19,8,8,Shorts and T-shirt
+14,7,12,5,0,0,0,0,0,13,20,5,5,Hoodie and Jeans
+8,2,6,0,3,3,4,0,5,22,32,3,3,Raincoat and Warm Pants
+-2,-8,-4,-10,0,0,0,5,7,17,27,2,2,Woolen Coat and Scarf
+12,6,10,4,0,0,0,0,0,10,15,6,6,Cardigan and Jeans
+26,14,28,16,0,0,0,0,0,7,12,9,9,Summer Dress and Sandals
+6,1,4,-2,4,4,5,0,6,20,30,2,2,Waterproof Jacket and Warm Pants
+-10,-15,-12,-17,0,0,0,8,10,18,28,1,1,Heavy Coat and Woolen Hat
+8,3,6,1,0,0,0,0,0,9,13,5,5,Sweater and Jeans
+32,22,36,24,0,0,0,0,0,12,21,10,10,Tank Top and Shorts
+18,8,16,6,0,0,0,0,0,14,22,7,7,Light Jacket and Pants
+10,4,8,2,2,2,3,0,4,21,31,3,3,Raincoat and Warm Pants
+-3,-9,-5,-11,0,0,0,6,8,16,26,2,2,Winter Coat and Gloves
+14,9,12,7,0,0,0,0,0,8,14,6,6,Hoodie and Jeans
+24,12,26,14,0,0,0,0,0,6,11,8,8,Summer Dress and Sandals
+7,2,5,-1,3,3,4,0,5,19,29,2,2,Raincoat and Warm Pants
+-6,-12,-8,-14,0,0,0,7,9,17,27,1,1,Woolen Coat and Scarf
+20,10,18,8,0,0,0,0,0,11,16,7,7,Light Sweater and Jeans
+16,6,14,4,0,0,0,0,0,13,19,6,6,Hoodie and Shorts
